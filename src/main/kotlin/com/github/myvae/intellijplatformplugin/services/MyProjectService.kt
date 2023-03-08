@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.myvae.intellijplatformplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.myvae.intellijplatformplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
